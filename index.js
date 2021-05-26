@@ -25,4 +25,4 @@ function concat () {
 
 }
 
-concat () 
+concat ();
